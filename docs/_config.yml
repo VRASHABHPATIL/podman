@@ -1,8 +1,16 @@
 title: "Podman Practice Guide"
-theme: just-the-docs
+description: "Learn Podman: Containers, Pods, Compose, Kube"
+remote_theme: just-the-docs/just-the-docs
+
+# enable search
+search_enabled: true
+
+# dark theme options
 color_scheme: dark
 
+# navigation order
+nav_order: 1
+
+# required for GitHub Pages
 plugins:
   - jekyll-remote-theme
-
-remote_theme: just-the-docs/just-the-docs
