@@ -37,9 +37,6 @@ Everything here is **tested and working** on Podman rootless mode (Ubuntu/WSL/Li
 ### 🔹 [🐳 Containers](containers.md)
 Run, stop, inspect and remove containers using Podman CLI
 
-### 🔹 [🏗️ Images](images.md)
-Build your own images using `Containerfile` & best practices
-
 ### 🔹 [🫙 Pods](pods.md)
 Run multiple containers sharing the same network, like Kubernetes Pods
 
