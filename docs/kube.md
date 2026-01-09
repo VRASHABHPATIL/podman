@@ -196,4 +196,4 @@ But you can add them manually!
 ✔ Deploy YAML back into Podman  
 ✔ Deploy YAML into real Kubernetes
 
-➡ Next: Check **[Podman Compose](cheatsheet.md)** for fast reference!
+➡ Next: Check **[cheatsheet](cheatsheet.md)** for fast reference!
