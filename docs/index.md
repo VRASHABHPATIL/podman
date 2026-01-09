@@ -34,7 +34,7 @@ Everything here is **tested and working** on Podman rootless mode (Ubuntu/WSL/Li
 ## 🧭 Start Learning — Click a Topic Below  
 (Each link opens a full tutorial!)
 
-### 🔹 [🐳  Containers](containers.md)
+### 🔹 [🐳 Containers](containers.md)
 Run, stop, inspect and remove containers using Podman CLI
 
 ### 🔹 [🫙 Pods](pods.md)
