@@ -270,4 +270,4 @@ podman system prune -a -f
 
 ---
 
-➡ Next: **[Podman Compose](pods.md)** — multiple containers sharing the same namespace!
+➡ Next: **[Pods](pods.md)** — multiple containers sharing the same namespace!
